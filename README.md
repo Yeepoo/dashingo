@@ -1,6 +1,7 @@
-# dashingoecho "# dashingo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Yeepoo/dashingo.git
-git push -u origin master
+# dashingo
+
+Hi everyone!
+
+An association in which the free development of each is the condition of the free development of all.
+
+DashinGO! GO! GO! GO!
